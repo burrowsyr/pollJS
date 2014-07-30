@@ -1,0 +1,13 @@
+{
+  "name": "pollJS",
+  "version": "0.0.0",
+  "description": "pollJS ======",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/burrowsyr/pollJS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/burrowsyr/pollJS/issues"
+  },
+  "homepage": "https://github.com/burrowsyr/pollJS"
+}
