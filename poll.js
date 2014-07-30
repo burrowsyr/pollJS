@@ -20,7 +20,7 @@ Poll.prototype.start = function (onPoll, pollingRate) {
 };
 
 Poll.prototype.stop = function () {
-  clearTimeout(this.intervalId);
+  clearInterval(this.intervalId);
   this.pollingCount = 0;
 };
 
