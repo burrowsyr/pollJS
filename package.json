@@ -1,7 +1,7 @@
 {
-  "name": "pollJS",
-  "version": "0.0.0",
-  "description": "pollJS ======",
+  "name": "burrows-pollUtils",
+  "version": "1.0.0",
+  "description": "burrows-pollUtils ======",
   "main": "poll",
   "repository": {
     "type": "git",
